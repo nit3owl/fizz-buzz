@@ -1,5 +1,5 @@
 # fizz-buzz
-Fizzing and Buzzing for fun and profit
+Fizzing and Buzzing for fun and profit.
 
 ## What is it?!
 [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz#Programming_interviews) is one of most challenging programming problems of the modern
