@@ -2,6 +2,8 @@ import java.util.List;
 import java.util.ArrayList;
 
 public class DefaultFizzBuzzCalculator implements FizzBuzzCalculator {
+    
+    public static final String TYPE = "default";
 
     public List<String> calculate(int num) {
         if (num <= 0 || num > 100)
